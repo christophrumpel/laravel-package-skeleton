@@ -1,5 +1,5 @@
 {
-    "name": "christophrumpel/skeleton-php",
+    "name": "christophrumpel/laravel-package-skeleton",
     "description": "A skeleton repository for my packages",
     "keywords": ["php", "skeleton", "package"],
     "license": "MIT",
