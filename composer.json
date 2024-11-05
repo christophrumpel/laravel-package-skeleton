@@ -1,13 +1,13 @@
 {
-    "name": "{vendor-name}/{package-name}",
-    "description": "{description}",
-    "keywords": ["{keywords}"],
+    "name": "christophrumpel/laravel-package-skeleton",
+    "description": "A skeleton repository for my packages",
+    "keywords": ["php", "skeleton", "package"],
     "license": "MIT",
     "type": "project",
     "authors": [
         {
-            "name": "{author-name}",
-            "email": "{author-email}"
+            "name": "Christoph Rumpel",
+            "email": "christoph@christoph-rumpel.com"
         }
     ],
     "require": {
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "{namespace}": "src/"
+            "ChristophRumpel\\LaravelPackageSkeleton\\": "src/"
         }
     },
     "autoload-dev": {
